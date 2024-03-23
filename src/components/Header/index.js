@@ -49,13 +49,13 @@ const Header = () => {
                   </Link>
                 </ListItem>
                 <ListItem isDarkTheme={isDarkTheme} className="list-Item">
-                  <Link className="list-Item">Resume</Link>
+                  <Link to="/resume" className="list-Item">Resume</Link>
                 </ListItem>
                 <ListItem isDarkTheme={isDarkTheme} className="list-Item">
-                  <Link className="list-Item">Skills</Link>
+                  <Link to="/skills" className="list-Item">Skills</Link>
                 </ListItem>
                 <ListItem isDarkTheme={isDarkTheme} className="list-Item">
-                  <Link className="list-Item">Projects</Link>
+                  <Link to="/projects" className="list-Item">Projects</Link>
                 </ListItem>
                 <ListItem isDarkTheme={isDarkTheme} className="list-Item">
                   <Link className="list-Item">Contact</Link>

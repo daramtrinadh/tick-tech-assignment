@@ -1,0 +1,11 @@
+.not-found-light{
+    display:flex;
+    flex-direction:row;
+    justify-content:center
+}
+.not-found-dark{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    color:white;
+}
