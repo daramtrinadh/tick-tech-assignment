@@ -1,0 +1,24 @@
+.list-Item {
+  margin: 10px;
+  text-decoration: none;}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.theme-btn {
+  border-width: 0px;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
